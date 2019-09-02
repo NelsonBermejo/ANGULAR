@@ -1,0 +1,22 @@
+ANGULAR
+https://www.youtube.com/watch?v=Sx_2dOYOtes
+
+Typescript es una forma de escribir javaScript con tipos
+
+comando
+instalar Angular:
+npm install -g @angular/cli
+
+cd Desktop://escritorio
+
+ng new myfirstapp
+
+para iniciar la aplicacion angular
+
+ng serve//Abre la app en un servidor
+
+Ve al Navegador
+
+localhost:4200
+***********************
+PACKAGE.JSON: es un archivo de configuracion de todo angular//una caja de erramientas
